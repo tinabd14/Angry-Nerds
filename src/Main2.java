@@ -16,5 +16,8 @@ class Main2
  
 		System.out.println("\nStay strong against coronavirus!\nWash your hands and stay home!\n"+
 		"Have a good life, Mr." + name + "!");
+		System.out.println("\nStay Home. Stay Safe!\n");
+		System.out.println("\nCorona Cases in Turkey are almost 80,000!\n");
+		
 	}
 }
