@@ -12,8 +12,9 @@ class Main2
  
 		String name = sc.nextLine();
  
-		System.out.println("Hello, Mr. " + name + "!");
- 
+		//System.out.println("Hello, Mr. " + name + "!");
+ 		System.out.println("Hello, Mr/Ms. " + name + "!");
+		
 		System.out.println("\nStay strong against coronavirus!\nWash your hands and stay home!\n"+
 		"Have a good life, Mr." + name + "!");
 	}
